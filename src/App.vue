@@ -1,6 +1,6 @@
 <script setup lang="ts"></script>
 
-<template>Hello</template>
+<template>Hello aspire</template>
 
 <style scoped>
 .logo {
